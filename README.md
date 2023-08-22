@@ -32,7 +32,8 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## Acknowledgments
 This project was inspired by the desire to create a simple yet effective way of monitoring motion using readily available resources. Thanks to the OpenCV community for providing the tools necessary to bring this idea to life.
 
-License
+## License
 This project is licensed under the MIT License.
 
 © Copyright [2023] NotYourAnonOne
+
